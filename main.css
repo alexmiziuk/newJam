@@ -43,6 +43,7 @@ body {
 .container-screen {
 	height: 85vh;
 	overflow: auto;
+	background-color: #9747ff;
 }
 .main-screen {
 	background-color: #9747ff;
